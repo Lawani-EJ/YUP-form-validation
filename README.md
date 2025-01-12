@@ -22,8 +22,8 @@ src/
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/Lawani-EJ/YUP-form-validation
+   YUP-form-validation
    ```
 
 2. **Install Dependencies**
@@ -121,7 +121,7 @@ Below is an example of the `App.css` file used for styling:
 This project is licensed under the [MIT License](LICENSE).
 
 ## Author
-Built with ❤️ by [Your Name](https://github.com/Lawani-EJ).
+Built with ❤️ by [John](https://github.com/Lawani-EJ).
 
 # React + Vite
 
