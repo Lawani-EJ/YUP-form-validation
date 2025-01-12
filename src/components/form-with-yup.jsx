@@ -43,7 +43,7 @@ function MyForm() {
 
   return (
     <div className="form-container">
-      <h1>Simple Form</h1>
+      <h1>Simple YUP Form 😁👍🏿</h1>
       <form onSubmit={handleSubmit}>
         <div className="form-group">
           <label className="label">Name:</label>
@@ -70,7 +70,7 @@ function MyForm() {
         </div>
 
         <button type="submit" className="button">
-          Submit
+          Submit ✨
         </button>
       </form>
     </div>
